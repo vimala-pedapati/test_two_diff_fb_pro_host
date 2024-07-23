@@ -1,5 +1,10 @@
 {
   "projects": {
-    "default": "myapptest-c1cb6"
-  }
+    "default": "myapptest-c1cb6",
+    "test": "myapptest-c1cb6",
+    "production": "myappproduction-c6ac7"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
